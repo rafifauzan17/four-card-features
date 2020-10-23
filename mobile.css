@@ -1,0 +1,29 @@
+.header {
+  /* max-width: 350px; */
+  padding: 20px;
+}
+
+.title h1 {
+  font-size: 1.5rem;
+}
+
+.title .bold-title {
+  font-size: 1.5rem;
+}
+
+.title-desc {
+  font-size: 1rem;
+}
+
+.content {
+  display: block;
+}
+
+.card {
+  margin: 33px auto;
+  width: 90vw;
+}
+
+.icon {
+  margin-left: 55vw;
+}
